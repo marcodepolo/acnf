@@ -8,3 +8,6 @@ choses a faire pour commencer...
 - regarder la doc de phpsocial et discord pour comprendre comment faire les modifs
 - mettre des commentaires dans les issues une fois que la facon de faire est identifiee
 - repartir les taches
+- créer les modèles du wiki pour chaque instance.
+- créer une bdd unique d'identification pour les différents outils
+- sécuriser social, donnant l'accès public qu'aux personnes enregistré dans nos bases.
